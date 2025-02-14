@@ -20,7 +20,7 @@
   <li>Linking the database to a Windows form</li>
 </ol>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; text-align: center; font-family: 'Courier New', monospace;">
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; font-family: 'academy', monospace;">
   <h3>
     This project was carried out under the supervision of <br> 
     the Ass Prof/Dr. Ibrahim El-Husseini.
