@@ -1,5 +1,7 @@
 #                                                         E-commerce__DataBase__Project
-[![E-Commerce Database Project](https://img.youtube.com/vi/w0yvBtXohFo/0.jpg)](https://www.youtube.com/watch?v=w0yvBtXohFo)
+[![Watch the video](https://img.youtube.com/vi/w0yvBtXohFo/maxresdefault.jpg)](https://youtu.be/w0yvBtXohFo)
+
+### [Check The YouTube Video Tutorial](https://youtu.be/w0yvBtXohFo)
 
 
 <h2 style="text-align: center; line-height: 1.5;">
