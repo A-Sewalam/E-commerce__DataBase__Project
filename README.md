@@ -21,11 +21,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; font-family: 'academy', monospace;">
   <h3>
-
-    [![Watch the video](https://img.youtube.com/vi/w0yvBtXohFo/maxresdefault.jpg)](https://youtu.be/w0yvBtXohFo)
+    
+[![Watch the video](https://img.youtube.com/vi/w0yvBtXohFo/maxresdefault.jpg)](https://youtu.be/w0yvBtXohFo)
 
 ### [Check The YouTube Video Tutorial](https://youtu.be/w0yvBtXohFo)
-
 
     👨‍🏫This project was carried out under the supervision of the Ass Prof/Dr. Ibrahim El-Husseini.
   </h3>
