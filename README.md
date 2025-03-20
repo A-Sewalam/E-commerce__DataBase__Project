@@ -21,7 +21,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; font-family: 'academy', monospace;">
   <h3>
-    👨‍🏫This project was carried out under the supervision of <br> the Ass Prof/Dr. Ibrahim El-Husseini.
+    👨‍🏫This project was carried out under the supervision of the Ass Prof/Dr. Ibrahim El-Husseini.
   </h3>
 </div>
 
