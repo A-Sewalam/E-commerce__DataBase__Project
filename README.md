@@ -2,8 +2,7 @@
 <img src="https://github.com/user-attachments/assets/1ccf8dd4-8746-450a-854a-47916bdcc9d7" style="width: 50%; display: block; margin: 0 auto;">
 
 <h2 style="text-align: center; line-height: 1.5;">
-  This project is a complete E-commerce Database Development <br>
-  along with a linked interface
+  This project Is An E-commerce Database Development Linked With WindowsForm Interface
 </h2> 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; text-align: center;">
