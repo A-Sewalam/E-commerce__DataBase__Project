@@ -1,13 +1,6 @@
 #                                                         E-commerce__DataBase__Project
-<div style="text-align: center;">
-  <iframe width="560" height="315" 
-    src="https://youtu.be/w0yvBtXohFo?si=WvHea7lNkTorMfbE" 
-    title="E-Commerce Database (Detailed Explanation!!) | ERD | Mapping | SQL | CRUD | WindowsForm Linked" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+[![E-Commerce Database Project](https://img.youtube.com/vi/w0yvBtXohFo/0.jpg)](https://www.youtube.com/watch?v=w0yvBtXohFo)
+
 
 <h2 style="text-align: center; line-height: 1.5;">
   This project Is An E-commerce Database Development Linked With A WindowsForm Interface
